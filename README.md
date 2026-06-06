@@ -2,7 +2,7 @@
 # 💻 Tech I work with:
 <img src="https://skillicons.dev/icons?i=javascript,nodejs,rust,cpp,c,typescript,python,bun,deno,react,nextjs,docker,angular,postgres,mongodb,mysql,nestjs,nginx,redis,yml" />
 
-## Ranked By Token needed to complete🥲:
+## OSS:
 - **[Duplicate Issue](https://github.com/Shashank-8p/issue-detector)**: Duplicate Issue detector.
 - **[Chess Analyzer](https://github.com/Shashank-8p/Chess-analyzer)**: Analysize your Chess match.
 - **[Kanban Board](https://github.com/Shashank-8p/Kanban-Board)**: Kanban Board in Vanilla JS.
